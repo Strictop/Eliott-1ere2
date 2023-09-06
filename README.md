@@ -2,7 +2,7 @@
 Notebook Deuxieme Premiere
 ## Un GIF :
 <p align="center">
-  <img align="center" width="30%" src="https://www.gifcen.com/wp-content/uploads/2022/03/pepe-the-frog-gif-5.gif" />
+  <img align="center" width="50%" src="https://www.gifcen.com/wp-content/uploads/2022/03/pepe-the-frog-gif-5.gif" />
   </p>
 
 ## Lien utile:
