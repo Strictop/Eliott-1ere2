@@ -1,6 +1,6 @@
 # Eliott-1ere2
 Notebook Deuxieme Premiere
-## Une petite ilustration bien sympa :
+## Une petite illustration bien sympa :
 <p align="center">
   <img align="center" width="50%" src="https://www.gifcen.com/wp-content/uploads/2022/03/pepe-the-frog-gif-5.gif" />
   </p>
