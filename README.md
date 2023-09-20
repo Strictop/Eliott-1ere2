@@ -7,7 +7,7 @@ Notebook Deuxieme Premiere
 
 ## Lien utile:
 
-Ecolde directe: https://www.ecoledirecte.com/login?cameFrom=%2FAccueil
+Ecole directe: https://www.ecoledirecte.com/login?cameFrom=%2FAccueil
 
 Boite mail lycée: https://outlook.office365.com/mail/
 
