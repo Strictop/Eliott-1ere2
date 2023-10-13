@@ -5,5 +5,7 @@
    
    *[Binaire](1er_trimestre/Binaire)*
 
+   *[Python]
+
 ## 📕2eme Trimestre
 ## 📘3eme Trimestre
