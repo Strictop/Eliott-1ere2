@@ -1,0 +1,34 @@
+from random import randint
+
+joueur =int(input("Pierre, Feuille, Ciseaux "))
+adversaire = randint(1,3) 
+
+if joueur == 1:
+    if adversaire == 2:
+        print("tu as perdu")
+    elif adversaire == 3:
+        print("tu as gagné")
+    else:
+        print("égalité")
+    print(adversaire)
+        
+elif joueur == 2:
+    if adversaire == 3:
+        print("tu as perdu")
+    elif adversaire == 1:
+        print("tu as gagné")
+    else:
+        print("égalité")
+    print(adversaire)
+    
+elif joueur == 3:
+    if adversaire == 1:
+        print("tu as perdu")
+    elif adversaire == 2:
+        print("tu as gagné")
+    else:
+        print("égalité")
+    print(adversaire)
+    
+else:
+    print("Choisi un chiffre entre 1 et 3")
