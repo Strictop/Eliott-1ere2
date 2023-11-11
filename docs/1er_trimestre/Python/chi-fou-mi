@@ -1,15 +1,13 @@
 from random import randint
-
 joueur = int(input("Pierre (1), Feuille (2), Ciseaux (3) : "))
-adversaire = randint(1, 3)
-
-if 1 <= joueur <= 3:
-    if joueur == adversaire:
-        print("Égalité !")
-    elif (joueur == 1 and adversaire == 3) or (joueur == 2 and adversaire == 1) or (joueur == 3 and adversaire == 2):
-        print("Tu as gagné !")
+adversaire = randint (1, 3)
+if 1 < joueur <= 3:
+    if joueur == adversaire：
+        print ("Égalité !")
+elif (joueur == 1 and adversaire == 3) or (joueur == 2 and adversaire == 1) or (joueur == 3 and adversaire == 2):
+    print ("Tu as gagné !")
     else:
-        print("Tu as perdu !")
+    print ("Tu as perdu !")
     print(f"L'ordinateur a choisi : {adversaire}")
 else:
-    print("Choisis un chiffre entre 1 et 3.")
+    print ("Choisis un chiffre entre 1 et 3 .")
