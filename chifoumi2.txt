@@ -12,4 +12,4 @@ if 1 <= joueur <= 3:
         print("Tu as perdu !")
     print(f"L'ordinateur a choisi : {adversaire}")
 else:
-    print("Choisis un chiffre entre 1 et 3.")
+    print("Choisis un chiffre entre 1 et 3 .")
