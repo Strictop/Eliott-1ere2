@@ -20,4 +20,4 @@
         </html>
 
     <head> qui contient des métadonnées et des liens vers des ressources externes
-    <body> qui contient le contenu visible de la page.
+    <body> qui contient le contenu visible de la page. 
