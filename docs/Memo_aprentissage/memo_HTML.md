@@ -1,4 +1,4 @@
-# HTML (Hypertext Markup Language):
+# HTML (Hypertext Markup Language)
 
     C'est un langage de balisage utilisé pour créer la structure et le contenu d'une page web.
 
