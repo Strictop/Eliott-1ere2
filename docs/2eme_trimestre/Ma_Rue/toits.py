@@ -25,4 +25,15 @@ def toits(x, y_sol, niveau):
     elif type_toit == 'pointe':
         # Dessiner un toit en pointe
         toit1(x, niveau)
+if __name__ == '__main__':
+    # Tests
+    affiche(rue)
+    for i in range(5) :
+        for j in range(6) :
+            toits(0 + 200 * i, j)
 
+    # Autres tests
+    affiche(rue)
+    for i in range(5):
+        for j in range(6):
+            toits(0 + 200 * i, rue.height, j)
