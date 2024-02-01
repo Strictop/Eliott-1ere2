@@ -1,5 +1,5 @@
 # Dépendances
-from ma_rue import rue, affiche 
+from Ma_rue import rue, affiche 
 
 # Définitions
 # Fonction rectangle()
